@@ -1,0 +1,9 @@
+*~
+\#*\#
+\.\#*
+*.elc
+auto-save-list
+tramp
+eshell
+ido.last
+site-lisp/loaddefs

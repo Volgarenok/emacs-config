@@ -1,0 +1,3 @@
+[submodule "site-lisp/docker"]
+	path = site-lisp/docker
+	url = https://github.com/spotify/dockerfile-mode
